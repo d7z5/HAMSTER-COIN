@@ -1,7 +1,7 @@
 # HAMSTER COIN (on Solana blockchain)
 Functioning as symbolic representations of earned value
 
-#### ======== Not a meme coin, no future value. Parents/teachers welcome! ========
+### ======== Not a meme coin, no future value. Parents/teachers welcome! ========
 
 Whenever my children do something positive, such as washing dishes, playing outside, or excelling in school, **they earn HAMSTER Coins**. We've established a one-to-one ratio, meaning one Hamster Coin is earned for each good deed. For instance, spending 2 hours outdoors earns them 2 coins. But you can use differently of course. These coins are then transferred to their digital wallet. Later, when they wish to play games or watch TV, they must 'spend' their coins. Every 15 minutes of screen time costs them one coin, so an hour of entertainment requires 4 coins. This system has proven highly effective for my kids.
 
@@ -13,7 +13,7 @@ I've even discussed this initiative with their **teachers**, who now offer Hamst
 
 **Divorced parents** can also collaborate, ensuring that the positive efforts made in one household are recognized and carried over to the other. This means that the Hamster coins earned by the children can be used consistently **across both parents' homes**, reinforcing the sense of **continuity and fairness** in the reward system regardless of where the children are staying. Such collaboration fosters a unified approach to teaching responsibility and encourages consistency in behavior expectations and rewards across different environments.
 
-### How does it work?
+# How does it work?
 
 
 1. **EARNING** Parents send HAMSTER coin that is equal to activities completed. For example, one completed activity earns one hamster coin. Some harder tasks can be worth 2, 3 or more coins.
