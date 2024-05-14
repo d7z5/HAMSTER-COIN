@@ -16,7 +16,7 @@ I've even discussed this initiative with their **teachers**, who now offer Hamst
 # How does it work?
 
 
-1. **EARNING** Parents send HAMSTER coin that is equal to activities completed. For example, one completed activity earns one hamster coin. Some harder tasks can be worth 2, 3 or more coins.
+1. **EARNING:** Parents send HAMSTER coin that is equal to activities completed. For example, one completed activity earns one hamster coin. Some harder tasks can be worth 2, 3 or more coins.
 3. **SPENDING:** When children wish to watch TV, play games, or engage in similar activities, they must use these coins for access. When their coin supply is depleted, they must undertake additional tasks to earn more coins. The parents send them these, and they can use them imidiately for free activity (sending back coin again) or save for tomorrow.
 4. **TRANSACTIONS:** Typically, a fixed quantity of coins suffices, as they are continually exchanged between parties. Example: A parent has 100 coins. It can allocate 1 coin to 15 minutes of free activity. It means that the kid has to have 4 coins in order to play one hour. The coins are moved back and forth between parent-kid wallets.
 
@@ -27,10 +27,10 @@ I've even discussed this initiative with their **teachers**, who now offer Hamst
 Download Solflare wallet on your mobile phone or use the browser extension.
 
 #### 2. Create a New Wallet:
-If you don't have a wallet yet, make a new one. Don't forget to write down your recovery phrase by hand. It's your only backup. Remember, your coins aren't stored on your phone; they're on the blockchain. Your recovery phrase, consisting of 12 or 24 words, is like your login and password for e-mail -- combined. Keep it safe and secure!
+If you don't have a wallet yet, make a new one. Don't forget to write down your recovery phrase by hand, in the exact order. It's your only, single backup. Remember, your coins aren't stored on your phone; they're on the blockchain. Your recovery phrase, consisting of 12 or 24 words, is like your login and password for e-mail -- combined; keys that open the door of your coins stored on the network. Keep it safe and secure!
 
 #### 3. Fund Your Wallet:
-Buy some Solana (even 0.3 is sufficient) to add funds to your wallet. This is necessary to cover transaction fees in the future. Each transaction typically costs around 0.0005 SOL. It will last long.
+Buy some Solana (even 0.3 is sufficient) to add funds to your wallet. This is necessary to cover transaction fees in the future. Each transaction typically costs around 0.00001 SOL. It will last long.
 
 #### 4. Set Up Kids' Wallets:
 Repeat the process #2 on your kids' devices. Ensure they also back up their recovery phrases. The best -- you do it.
@@ -46,4 +46,4 @@ Inside the app add new token with the address: **`CmG4vcd3rfnX3NAMFbtCACG36BTfob
 
 
 # HAMSTER coin contract address is:
-[https://solscan.io/token/CmG4vcd3rfnX3NAMFbtCACG36BTfobgMrwLjGaCTC3Dk]
+https://solscan.io/token/CmG4vcd3rfnX3NAMFbtCACG36BTfobgMrwLjGaCTC3Dk
