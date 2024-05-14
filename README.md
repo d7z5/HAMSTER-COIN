@@ -1,4 +1,4 @@
-# HAMSTER COIN
+# HAMSTER COIN (on Solana blockchain)
 Functioning as symbolic representations of earned value
 
 ## Not a meme coin, no future value. Parents/teachers welcome!
@@ -18,7 +18,7 @@ I've even discussed this initiative with their **teachers**, who now offer Hamst
 
 1. **EARNING** Parents send HAMSTER coin that is equal to activities completed. For example, one completed activity earns one hamster coin. Some harder tasks can be worth 2, 3 or more coins.
 3. **SPENDING:** When children wish to watch TV, play games, or engage in similar activities, they must use these coins for access. When their coin supply is depleted, they must undertake additional tasks to earn more coins. The parents send them these, and they can use them imidiately for free activity (sending back coin again) or save for tomorrow.
-4. **TRANSACTIONS:** Typically, a fixed quantity of coins suffices, as they are continually exchanged between parties. A parent has 100 coins. It can allocate 1 coin to 15 minutes of free activity. It means that a kid has to have 4 coins in order to play one hour.
+4. **TRANSACTIONS:** Typically, a fixed quantity of coins suffices, as they are continually exchanged between parties. A parent has 100 coins. It can allocate 1 coin to 15 minutes of free activity. It means that a kid has to have 4 coins in order to play one hour. The coins are moved between their wallets.
 
 
 # Setting Up Wallet and "HAMSTER COIN": A Quick Guide
