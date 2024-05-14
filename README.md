@@ -27,7 +27,7 @@ I've even discussed this initiative with their **teachers**, who now offer Hamst
 Download Solflare wallet on your mobile phone or use the browser extension.
 
 #### 2. Create a New Wallet:
-If you don't have a wallet, create one. Write down the recovery phrase by hand; it's your only backup. Store it securely!
+If you don't have a wallet, create one. Write down the recovery phrase by hand; it's your only backup. Your coins are not in your mobile, but your seed phrase (12 or 24 words) can open your wallet on the blockchain (as it is login/password with email). Store it securely!
 
 #### 3. Fund Your Wallet:
 Purchase some Solana (even 0.3 is enough) to fund your wallet. It is needed to pay transactions in the future. Each transaction is about 0.0005 SOL.
