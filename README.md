@@ -39,10 +39,10 @@ Repeat the process on your kids' devices. Ensure they also back up their recover
 Send about 0.1 SOL to their wallets so that they can pay transactions in the future.
 
 #### 6. Receive 1,000 Coins:
-Instead of creating a complex faucet for receiving the coins, simply send 0.003 sol to the address: `nCbcLtBX1hNYMBqJyFrTkiB5zss2RBWAtnvvVTFKE8q`, and I'll send you back 1000 coins. It is easy, since I will know where to send HAMSTER coins. If you don’t want to use it, you can burn your coins and get 0.0025 sol.
+Instead of creating a complex faucet for receiving the coins, simply send 0.003 sol to the address: **`nCbcLtBX1hNYMBqJyFrTkiB5zss2RBWAtnvvVTFKE8q`**, and I'll send you back 1000 coins. It is easy, since I will know where to send HAMSTER coins. If you don’t want to use it, you can burn your coins and get 0.0025 sol.
 
 #### 7. Add the contract address into all wallets you want to use the coin:
-Inside the app add new token with the address: CmG4vcd3rfnX3NAMFbtCACG36BTfobgMrwLjGaCTC3Dk (do not send SOL there!). You will soon be able to see the received coins in your wallet. Now you can send them to your kids. You can use QR codes, they love it.
+Inside the app add new token with the address: **`CmG4vcd3rfnX3NAMFbtCACG36BTfobgMrwLjGaCTC3Dk`** (do not send SOL there!). You will soon be able to see the received coins in your wallet. Now you can send them to your kids. You can use QR codes, they love it.
 
 
 # HAMSTER coin contract address is:
